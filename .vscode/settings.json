@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "*.html": "html",
+    "iostream": "cpp",
+    "iosfwd": "cpp",
+    "vector": "cpp",
+    "set": "cpp"
+  }
+}
